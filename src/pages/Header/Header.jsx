@@ -8,12 +8,12 @@ const Header = () => {
     <div className="holder">
       <header className="header">
         <Navbar />
-        <div className="header-content flex flex-center text-center ">
+        <div className="header-content text-white flex flex-c text-center ">
           <h2 className="header-title text-capitalize">
             find your book of choice
           </h2>
           <br />
-          <p className="header fs-18 fw-3">
+          <p className="header-text fs-18 fw-3">
             Lorem ipsum dolor sit amet consectetur, adipisicing elit.
             Dignissimos explicabo porro iusto! Laborum nihil magnam praesentium
             aperiam. Expedita quam aut iure mollitia! Dolorem, autem voluptatum.
